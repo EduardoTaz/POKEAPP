@@ -12,22 +12,22 @@
 
 # Tecnologias utilizadas
   * O jogo foi desenvolvido usando React Native. Para executar o projeto, é necessário instalar:
-    *Node.js
-    *Expo CLI
-    *@react-navigation/native para a navegação entre telas
-    *axios para realizar as requisições HTTP á PokéAPI
+    * Node.js
+    * Expo CLI
+    * @react-navigation/native para a navegação entre telas
+    * axios para realizar as requisições HTTP á PokéAPI
   * PokéAPI
-    *Endpoint
+    * Endpoint
       * https://pokeapi.co/api/v2/pokemon/
       * Ao realizar a requisição para o endpoint de um Pokémon, a resposta contém diversas informações, incluindo as imagens nas propriedades sprites. A imagem do Pokémon pode ser acessada através de sprites.front_default.
 
 # Instruções de Execução
   * Clone o repositório do GitHub:
-    *git clone https://github.com/EduardoTaz/POKEAPP.git
+    * git clone https://github.com/EduardoTaz/POKEAPP.git
   * Instale as dependências necessárias:
-    *npm install 
+    * npm install 
   * Execute o projeto em um dispositivo físico ou em um emulador
-    *npx expo start
+    * npx expo start
 
 # Testes e Depuração
   * Foram realizados testes para verificar a correta integração com a PokéAPI.
