@@ -34,4 +34,4 @@
   * O fluxo de navegação entre as telas foi testado com diferentes entradas de usuário.
   * Testes de depuração incluíram validação de respostas corretas e incorretas e verificação de erros de requisição à API.
 
-* Este aplicativo foi desenvolvido para fornecer uma experiência divertida de adivinhação de Pokémon, com funcionalidades de navegação fluida e integração com a PokéAPI. O sistema de ranking é uma adição opcional que melhora a competitividade entre jogadores, utilizando um banco de dados como Firebase para armazenamento persistente.
+* Este aplicativo foi desenvolvido para fornecer uma experiência divertida de adivinhação de Pokémon, com funcionalidades de navegação fluida e integração com a PokéAPI.
